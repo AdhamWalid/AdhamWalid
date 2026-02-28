@@ -26,9 +26,9 @@ Backend   → Node.js | Express.js
 Database  → MongoDB | Mongoose
 Frontend  → HTML | CSS | JavaScript
 Tools     → Git | GitHub | VS Code
-<p align="center">
-  💡 <i>Ready to add value from day one.</i>
-</p>
+
+  💡 Ready to add value from day one.
+  
 ```
 
 

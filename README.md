@@ -1,5 +1,36 @@
 # 💫 About Me:
-<br> 🌏 Hi there! I'm <strong>Adham</strong>  <br>🎓 An 19-year-old Software Engineering student based in Malaysia, passionate about creating innovative solutions through technology. I'm eager to learn, collaborate, and contribute to projects that make a difference.<br>
+<h1 align="center">Hi 👋 I'm Adham</h1>
+
+<p align="center">
+  <b>Full-Stack Developer in the Making</b><br>
+  Turning ideas into scalable, real-world systems.
+</p>
+
+---
+
+## 🚀 About Me
+
+Full-stack developer in the making with a passion for transforming ideas into functional, real-world systems.  
+
+Experienced in building interactive platforms using **Node.js**, **MongoDB**, and modern web technologies, I thrive in fast-paced environments where creativity meets execution.
+
+I’m not just learning software engineering —  
+I’m actively **building**, **testing**, and **improving** solutions that solve real problems.
+
+---
+
+## 🛠 Tech Focus
+
+```bash
+Backend   → Node.js | Express.js
+Database  → MongoDB | Mongoose
+Frontend  → HTML | CSS | JavaScript
+Tools     → Git | GitHub | VS Code
+<p align="center">
+  💡 <i>Ready to add value from day one.</i>
+</p>
+```
+
 
 
 ## 🌐 Socials:
